@@ -1,6 +1,7 @@
 import { tokens } from "../theme";
+import { GridRowsProp } from '@mui/x-data-grid'
 
-export const mockDataTeam = [
+export const mockDataTeam: GridRowsProp = [
   {
     id: 1,
     name: "Jon Snow",
