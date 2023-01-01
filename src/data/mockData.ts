@@ -76,7 +76,7 @@ export const mockDataTeam: GridRowsProp = [
   },
 ];
 
-export const mockDataContacts = [
+export const mockDataContacts: GridRowsProp = [
   {
     id: 1,
     name: "Jon Snow",
