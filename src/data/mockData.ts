@@ -200,7 +200,7 @@ export const mockDataContacts: GridRowsProp = [
   },
 ];
 
-export const mockDataInvoices = [
+export const mockDataInvoices: GridRowsProp = [
   {
     id: 1,
     name: "Jon Snow",
